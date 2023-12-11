@@ -10,7 +10,7 @@ numero1 = "uno"
 print(numero1)
 
 '''   
-fdfsd
+Comentario
 '''
 
 print(type(numero1))

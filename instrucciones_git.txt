@@ -1,11 +1,20 @@
 Para iniciar git:
-$ git init
+git init
 
 Configuración
-$ git config user.name David
-$ git config user.email davidbmjt@hotmail.com
-$ git config --global core.editor "code --wait"
-$ git config core.autocrlf true
+git config user.name David
+git config user.email davidbmjt@hotmail.com
+git config --global core.editor "code --wait"
+git config core.autocrlf true
 
 Visualizar configuración
-$ git config -e
+git config -e
+
+
+Pasar a la fase stage
+git add nombre_fichero
+
+Pasar a la fase commit
+git commit -m "Mensaje para saber qué hemos hecho"
+
+git push -u origin main

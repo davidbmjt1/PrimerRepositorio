@@ -8,3 +8,6 @@ boleano2 = False
 
 print(nombre)
 print(type(numero1))
+
+
+print(f"la suma entre {numero1} y {numero2} es {numero1 + numero2}")
