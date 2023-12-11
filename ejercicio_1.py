@@ -29,7 +29,7 @@ print("SEGUNDOS: ", seg)
 
 
 ''''''
-#H Hecho por profesor
+# Hecho por profesor
 ''''''
 
 # Vamos a preguntar al usuario cuantos segundos
